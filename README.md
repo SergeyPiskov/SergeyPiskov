@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergeyPiskov
 - 👀 I’m interested in Wed Development
-- 🌱 I’m currently learning Docker, Typescript, .net 5
+- 🌱 I’m currently learning Docker, Typescript, .net 6
 
 <!---
 SergeyPiskov/SergeyPiskov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
